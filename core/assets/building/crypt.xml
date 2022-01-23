@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with https://www.codeandweb.com/physicseditor -->
+<bodydef>
+
+	<body name="crypt">
+		<linear_damping>0</linear_damping>
+		<angular_damping>0</angular_damping>
+		<allow_sleep/>
+		<fixture>
+			<density>2</density>
+			<friction>0</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65535</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<polygon>245.0000, 162.0000, 139.0000, 190.0000, 64.0000, 111.0000, 43.0000, 70.0000, 177.0000, 7.0000, 230.0000, 68.0000</polygon>
+			<polygon>134.0000, 219.0000, 88.0000, 214.0000, 62.0000, 193.0000, 64.0000, 111.0000, 139.0000, 190.0000</polygon>
+			<polygon>256.0000, 41.0000, 230.0000, 68.0000, 177.0000, 7.0000</polygon>
+		</fixture>
+	</body>
+
+	<metadata>
+		<format>1</format>
+		<ptm_ratio>32</ptm_ratio>
+	</metadata>
+
+</bodydef>
+

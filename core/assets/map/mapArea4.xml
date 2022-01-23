@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with https://www.codeandweb.com/physicseditor -->
+<bodydef>
+
+	<body name="mapArea1">
+		<linear_damping>0</linear_damping>
+		<angular_damping>0</angular_damping>
+		<fixed_rotation/>
+		<allow_sleep/>
+		<fixture>
+			<density>2</density>
+			<friction>0</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65535</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<polygon>3253.0000, 943.0000, 2350.0000, 1409.0000, 1301.0000, 898.0000, 1696.0000, 172.0000</polygon>
+			<polygon>1696.0000, 172.0000, 1301.0000, 898.0000, 673.0000, 1211.0000, 138.0000, 950.0000</polygon>
+		</fixture>
+		<fixture>
+			<density>2</density>
+			<friction>0</friction>
+			<restitution>0</restitution>
+			<filter_category_bits>1</filter_category_bits>
+			<filter_mask_bits>65535</filter_mask_bits>
+			<filter_group_index>0</filter_group_index>
+			<polygon>662.0000, 1429.0000, 1313.0000, 1110.0000, 2338.0000, 1626.0000, 1700.0000, 1932.0000</polygon>
+		</fixture>
+	</body>
+
+	<metadata>
+		<format>1</format>
+		<ptm_ratio>32</ptm_ratio>
+	</metadata>
+
+</bodydef>
+
